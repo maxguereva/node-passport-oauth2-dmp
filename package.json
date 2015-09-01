@@ -1,0 +1,11 @@
+{
+    "version": "0.1.0",
+    "name": "passport-ysance",
+    "description": "Ysance authentication strategy for Passport",
+    "main": "./lib",
+    "dependencies": {
+        "passport-oauth2": "^1.x.x"
+    },
+    "author": "Angie Laurenti <angie.laurenti@ysance.com>",
+    "readmeFilename": "README.md"
+}
